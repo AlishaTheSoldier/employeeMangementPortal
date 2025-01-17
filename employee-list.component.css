@@ -1,0 +1,12 @@
+
+
+
+.bottom-btn {
+    position: fixed;
+    /* bottom: 10px;     Adjust this value for the desired distance from the bottom */
+    
+    left: 50%;       /* Centers the button horizontally */
+    transform: translateX(0%);  /* Exactly center the button horizontally */
+    z-index: 1000;   /* Make sure the button stays on top of other content */
+  }
+  

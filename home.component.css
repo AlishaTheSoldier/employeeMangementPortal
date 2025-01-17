@@ -1,0 +1,30 @@
+/* .navlist{
+color: yellow;
+margin-top: 20px;
+display: contents;
+}
+
+.nav-item{
+    display:inline;
+    color:blue;
+    background-color: black;
+margin-left: 20px;
+}
+
+.navbar{
+    background-color: black;
+    padding: 12px;
+}
+
+.intro a:hover {
+    font-size: large;
+    color: blue;
+    color: #000;
+    
+}
+
+/* .intro a:hover{
+    color:blueviolet;
+} */
+
+  
